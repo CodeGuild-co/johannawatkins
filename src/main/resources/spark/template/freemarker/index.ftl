@@ -11,6 +11,17 @@
                 <p>This is a skeleton blog site written in Java (with Spark).</p>
             </div>
         </div>
+        <div id="topnav">
+    	<ul>
+  	    	<li><a href="index.html">HOME</a></li>
+        	<li><a href="news.html">LATEST NEWS</a></li>
+        	<li><a href="about.html">ABOUT US</a></li>
+        	<li><a href="team.html">MEET THE TEAM</a></li>
+            <li><a href="achievements.html">ACHIEVEMENTS</a></li>
+          	<li><a href="charity.html">OUR CHARITIES</a></li>            <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+  </div>
+
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
