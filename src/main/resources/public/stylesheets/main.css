@@ -25,5 +25,7 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
     #topnav			{ clear:both; margin:0; padding:0; font-size:22.3px; font-family: Cambria; text-align:center;}
+    #topnav ul li 	{ display:inline; padding:0 10px; }
+
 
 
