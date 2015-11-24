@@ -14,11 +14,12 @@
         <div id="topnav">
     	<ul>
   	    	<li><a href="index.html">HOME</a></li>
-        	<li><a href="news.html">LATEST NEWS</a></li>
-        	<li><a href="about.html">ABOUT US</a></li>
-        	<li><a href="team.html">MEET THE TEAM</a></li>
-            <li><a href="achievements.html">ACHIEVEMENTS</a></li>
-          	<li><a href="charity.html">OUR CHARITIES</a></li>            <li><a href="contact.html">CONTACT</a></li>
+        	<li><a href="news.html">ABOUT</a></li>
+        	<li><a href="about.html">RECENT POSTS</a></li>
+        	<li><a href="team.html">BLAH</a></li>
+            <li><a href="achievements.html">HI</a></li>
+          	<li><a href="charity.html">OTHER</a></li>            
+          	<li><a href="contact.html">CONTACT</a></li>
     </ul>
   </div>
 
