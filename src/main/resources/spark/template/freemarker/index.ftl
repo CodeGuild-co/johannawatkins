@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>I've written one blog post!</h3>
+                    <h3>Villiers Park:</h3>
                     <ul>
                         <li><a href="/posts/hello_world/">Hello World</a></li>
                         <li><a href="/posts/blog1-23-11-2015/">Introduction</a></li>
