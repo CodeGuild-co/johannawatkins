@@ -10,17 +10,18 @@
                 <h1>My Blog</h1>
                 <p>This is a skeleton blog site written in Java (with Spark).</p>
             
-        </div>
+        
         <div id="topnav">
     	<ul>
   	    	<li><a href="index.html">HOME</a></li>
-        	<li><a href="news.html">ABOUT</a></li>
-        	<li><a href="about.html">RECENT POSTS</a></li>
-        	<li><a href="team.html">BLAH</a></li>
-            <li><a href="achievements.html">HI</a></li>
-          	<li><a href="charity.html">OTHER</a></li>            
+        	<li><a href="about.html">ABOUT</a></li>
+        	<li><a href="recent.html">RECENT POSTS</a></li>
+        	<li><a href="blah.html">BLAH</a></li>
+            <li><a href="hi.html">HI</a></li>
+          	<li><a href="other.html">OTHER</a></li>            
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
+  </div>
   </div>
   </div>
 
