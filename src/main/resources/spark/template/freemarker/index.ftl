@@ -9,6 +9,7 @@
             <div class="container">
                 <h1>My Blog</h1>
                 <p>This is a skeleton blog site written in Java (with Spark).</p>
+                <img src ="http://images.clipartpanda.com/pencil-and-paper-clipart-pen-pencil-clip-art.jpg" align=left height=15% width=15%>
             
         
         <div id="topnav">
