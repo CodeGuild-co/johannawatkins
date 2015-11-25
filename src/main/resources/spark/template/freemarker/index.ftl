@@ -9,9 +9,7 @@
             <div class="container">
                 <h1>My Blog</h1>
                 <p>This is a skeleton blog site written in Java (with Spark).</p>
-                <img src ="http://images.clipartpanda.com/pencil-and-paper-clipart-pen-pencil-clip-art.jpg" align=left height=15% width=15%>
-            
-        
+                
         <div id="topnav">
     	<ul>
   	    	<li><a href="index.html">HOME</a></li>
@@ -23,6 +21,7 @@
           	<li><a href="other.html">OTHER</a></li>            
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
+    <img src="http://imgur.com/1Qu7bdD" align=left height=15% width=15%>
   </div>
   </div>
   </div>
