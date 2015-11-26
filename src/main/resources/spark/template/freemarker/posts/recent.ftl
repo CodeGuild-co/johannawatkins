@@ -32,10 +32,12 @@
         <div class="container">
             <div class="row">
                 <img src="http://media.tumblr.com/c89bb90680fdc87ecd132937bf01b0e9/tumblr_inline_n78cu4p15H1s1jww5.gif" height=300px align=right>
-                    <h2>BLog Posts</h2>
+                    <h2>Blog Posts</h2>
+                    <br/>
                     
-                    <h4><a href="http://johannawatkins.codeguild.co/posts/blog1-23-11-2015/"> Arrival at Villiers Park - 26/11/2015</a></h4>
-                    <p>Villiers Park is a place that is highly talked about at my school; it’s all the Head of Sixth Form goes on about. Year 13 students come...</p>
+                    
+                    <a href="http://johannawatkins.codeguild.co/posts/blog1-23-11-2015/"> Arrival at Villiers Park - 26/11/2015</a>
+                    <p>Villiers Park is a place that is highly talked about at my school; it’s all the Head of Sixth Form goes on about. Year 13 students come... (see more)</p>
            <br/>
            <br/>
           </div>
