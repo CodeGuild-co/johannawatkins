@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <#include "header.ftl">
+        <#include "../header.ftl">
     </head>
     <body>
-        <#include "nav.ftl">
+        <#include "../nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
             <img src="http://i.imgur.com/1Qu7bdD.png?1" align=center height=15% width=15%>
