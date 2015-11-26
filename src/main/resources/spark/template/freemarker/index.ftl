@@ -12,6 +12,7 @@
                 
         <div id="topnav">
     	<ul>
+    	<img src="http://i.imgur.com/1Qu7bdD.png?1" align=left height=15% width=15% float=left>
   	    	<li><a href="index.html">HOME</a></li>
         	<li><a href="about.html">ABOUT</a></li>
         	<li><a href="recent.html">RECENT POSTS</a></li>
@@ -22,7 +23,7 @@
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
    
-    <img src="http://i.imgur.com/1Qu7bdD.png?1" align=left height=15% width=15% float=left>
+    
     
   </div>
   </div>
