@@ -1,3 +1,5 @@
+<link rel="icon" href="http://i.imgur.com/1Qu7bdD.png?1" type="image/png">
+<link rel="shortcut icon" href="http://i.imgur.com/1Qu7bdD.png?1" type="image/jpg">
 <title>Johanna's blog</title>
 <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
