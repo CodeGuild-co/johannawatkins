@@ -14,8 +14,8 @@
         <div id="topnav">
     	<ul style="font-size: 26px">
     	
-  	    	<li><a href="index.ftl">HOME</a></li>
-        	<li><a href="about.ftl">ABOUT</a></li>
+  	    	<li><a href="http://johannawatkins.codeguild.co/">HOME</a></li>
+        	<li><a href="posts/about.ftl">ABOUT</a></li>
         	<li><a href="recent.html">RECENT POSTS</a></li>
         	
         	<li><a href="blah.html">BLAH</a></li>
