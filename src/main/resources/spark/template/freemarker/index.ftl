@@ -14,8 +14,8 @@
         <div id="topnav">
     	<ul style="font-size: 26px">
     	
-  	    	<li><a href="/src/main/resources/spark/template/freemarker/index.ftl">HOME</a></li>
-        	<li><a href="/src/main/resources/spark/template/freemarker/about.ftl">ABOUT</a></li>
+  	    	<li><a href="index.ftl">HOME</a></li>
+        	<li><a href="about.ftl">ABOUT</a></li>
         	<li><a href="recent.html">RECENT POSTS</a></li>
         	
         	<li><a href="blah.html">BLAH</a></li>
