@@ -33,7 +33,7 @@
 
         <div class="container">
             <div class="row">
-                <img src="http://media.tumblr.com/c89bb90680fdc87ecd132937bf01b0e9/tumblr_inline_n78cu4p15H1s1jww5.gif" align=right>
+                <img src="http://media.tumblr.com/c89bb90680fdc87ecd132937bf01b0e9/tumblr_inline_n78cu4p15H1s1jww5.gif" height=300px align=right>
                     <h2>Welcome to my Blog!</h2>
                     
                     <p> Hello, and welcome to my blog on Computing and Mathematics! I'm just a 17 year old from the South Coast 
