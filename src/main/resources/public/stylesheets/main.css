@@ -27,12 +27,11 @@
     .topimage {
       display: inline-block;
     }
-    ul, li{
-      font-size: 26px;
+    
       
-      }
+      
       body {
-        padding-bottom: 10px;
+        padding-bottom: 50px;
       }
     
     
