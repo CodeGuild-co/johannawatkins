@@ -7,8 +7,8 @@
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
-                <h1>My Blog</h1>
-                <p>This is a skeleton blog site written in Java (with Spark).</p>
+                <h1>Johanna Watkins</h1>
+                <p><a href="https://plus.google.com/+JohannaWatkins98/">17 | Bournemouth | Computing and Mathematics</a></p>
                 
         <div id="topnav">
     	<ul>
