@@ -34,10 +34,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>Villiers Park:</h3>
-                    <ul>
-                        <li><a href="/posts/blog1-23-11-2015/">Introduction</a></li>
-                    </ul>
+                    <h2>Welcome to my Blog!</h2>
+                    <p> Hello, and welcome to my blog on Computing and Mathematics! I'm just a 17 year old from the South Coast 
+                    with dreams and ambitions, dedicating my life to the World of Computer Science and Mathematics.</p>
+                    <p> Computer Science and Mathematics are more of a passion than just an interest, and I wish to follow a career in these subjects. Computer Science has been of great interest to me since the age of eleven, when I began teaching myself the basics of HTML and CSS. My enthusiasm has continued through to A-Level, where I am in the process of creating an Android Application in Java. This quizzes and solves problems using trigonometric formulas. Studying the Decision modules in Further Mathematics has given me insight into the strong connection between Computer Science and Mathematics, demonstrating how essential algorithms are. It is the problem-solving aspect in both subjects that gives me the most pleasure, and is why I wish to commit myself to further study. </p>
             </div>
           </div>
         </div>
