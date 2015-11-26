@@ -11,7 +11,7 @@
                 <p><a href="https://plus.google.com/+JohannaWatkins98/">17 | Bournemouth | Computing and Mathematics</a></p>
                 
         <div id="topnav">
-    	<ul display=inline>
+    	<ul>
     	
   	    	<li><a href="index.html">HOME</a></li>
         	<li><a href="about.html">ABOUT</a></li>
