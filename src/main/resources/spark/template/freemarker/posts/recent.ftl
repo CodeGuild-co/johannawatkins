@@ -35,7 +35,7 @@
                     <h2>Blog Posts</h2>
                     <br/>
                     
-                    <a href="http://johannawatkins.codeguild.co/posts/blog2-24-11-2015/" Software Engineering - 24/11/2015</a>
+                    <a href="http://johannawatkins.codeguild.co/posts/blog2-24-11-2015/"> Software Engineering - 24/11/2015</a>
                     <p> Being a Software Engineer is simple: it’s all about problem solving and being lazy. 
  In Software Engineering, one of the key... (see more)</p>
                     
