@@ -21,7 +21,9 @@
           	<li><a href="other.html">OTHER</a></li>            
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
+    <div class="topimage">
     <img src="http://i.imgur.com/1Qu7bdD.png?1" align=left height=15% width=15%>
+    </div>
   </div>
   </div>
   </div>
