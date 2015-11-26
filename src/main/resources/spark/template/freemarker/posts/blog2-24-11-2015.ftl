@@ -7,6 +7,7 @@
 <#include "../nav.ftl"> 
 <div class="container"> 
 <div class="row"> 
+<h1>Software Engineering - 24/11/2015</h1>
 <p>Being a Software Engineer is simple: it’s all about problem solving and being lazy. <br/>
 In Software Engineering, one of the key skills is problem solving. It isn’t just about how you tackle the problem, but breaking down your problem into several factors. You need to consider the smaller decisions which together form your big issue. For example: </p>
 <ul>
