@@ -15,7 +15,7 @@
     	<ul style="font-size: 26px">
     	
   	    	<li><a href="http://johannawatkins.codeguild.co/">HOME</a></li>
-        	<li><a href="posts/about">ABOUT</a></li>
+        	<li><a href="posts/about/">ABOUT</a></li>
         	<li><a href="recent.html">RECENT POSTS</a></li>
         	
         	<li><a href="blah.html">BLAH</a></li>
