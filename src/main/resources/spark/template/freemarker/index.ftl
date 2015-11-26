@@ -7,6 +7,7 @@
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
+            <img src="http://i.imgur.com/1Qu7bdD.png?1" align=center height=15% width=15%>
                 <h1>Johanna Watkins</h1>
                 <p><a href="https://plus.google.com/+JohannaWatkins98/">17 | Bournemouth | Computing and Mathematics</a></p>
                 
@@ -22,7 +23,7 @@
           	<li><a href="other.html">OTHER</a></li>            
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
-    <img src="http://i.imgur.com/1Qu7bdD.png?1" align=left height=15% width=15% float=left>
+    
    
     
     
