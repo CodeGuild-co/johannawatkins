@@ -15,11 +15,11 @@
     	<ul style="font-size: 26px">
     	
   	    	<li><a href="http://johannawatkins.codeguild.co/">HOME</a></li> &nbsp;&nbsp;|
-        	<li><a href="about/">ABOUT</a></li>&nbsp;&nbsp;|
-        	<li style=background-color:#FFFFFF><a href="recent/">BLOG POSTS</a></li>&nbsp;&nbsp;|
+        	<li><a href="http://johannawatkins.codeguild.co/posts/about/">ABOUT</a></li>&nbsp;&nbsp;|
+        	<li style=background-color:#FFFFFF><a href="http://johannawatkins.codeguild.co/posts/recent/">BLOG POSTS</a></li>&nbsp;&nbsp;|
         	
-        	<li><a href="posts/different/">MY BLOG IS DIFFERENT</a></li>&nbsp;&nbsp;|
-          	<li><a href="contact.html">CONTACT</a></li>
+        	<li><a href="http://johannawatkins.codeguild.co/posts/different/">MY BLOG IS DIFFERENT</a></li>&nbsp;&nbsp;|
+          	<li><a href="http://johannawatkins.codeguild.co/posts/contact/">CONTACT</a></li>
     </ul>
     
    
