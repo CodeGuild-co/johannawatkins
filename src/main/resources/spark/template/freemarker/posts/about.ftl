@@ -14,13 +14,11 @@
         <div id="topnav">
     	<ul style="font-size: 26px">
     	
-  	    	<li><a href="http://johannawatkins.codeguild.co/">HOME</a></li>
-        	<li style=background-color:#FFFFFF><a href="posts/about/">ABOUT</a></li>
-        	<li><a href="posts/recent/">RECENT POSTS</a></li>
+  	    	<li><a href="http://johannawatkins.codeguild.co/">HOME</a></li> &nbsp;&nbsp;|
+        	<li style=background-color:#FFFFFF><a href="posts/about/">ABOUT</a></li>&nbsp;&nbsp;|
+        	<li><a href="posts/recent/">BLOG POSTS</a></li>&nbsp;&nbsp;|
         	
-        	<li><a href="blah.html">BLAH</a></li>
-            <li><a href="hi.html">HI</a></li>
-          	<li><a href="other.html">OTHER</a></li>            
+        	<li><a href="posts/different/">MY BLOG IS DIFFERENT</a></li>&nbsp;&nbsp;|
           	<li><a href="contact.html">CONTACT</a></li>
     </ul>
     
