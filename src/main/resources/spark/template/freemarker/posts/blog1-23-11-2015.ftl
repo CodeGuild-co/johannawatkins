@@ -7,7 +7,7 @@
 <#include "../nav.ftl"> 
 <div class="container"> 
 <div class="row"> 
-<h1> Arrival at Villiers Park - 23/11/2015</h1>
+<h1><u> Arrival at Villiers Park - 23/11/2015</h1></u>
 <p>Villiers Park is a place that is highly talked about at my school; it’s all the Head of Sixth Form goes on about. Year 13 students come back from the courses sharing their incredible experiences and recommending courses to younger pupils. I’m not the highest achiever in my Computing class, but when the opportunity rose for Villiers Park, I certainly wasn’t going to ignore it.</p>
 <p>Villiers Park, for me, is a great place to gain more university experience and a better insight into a Computer Science course. Through sample lectures and group project work, I’m learning vital skills from communication skills, to written schools (writing this blog post!)</p>
 <p>I think the biggest challenge for me is going to be coping with the demands of the course. Pretty much everyone except for me is predicted AAA or higher in their A-Levels, whereas I’m predicted BBD. In all fairness, my Computing teacher did say on the form I’m capable of an A or A*, so surely that is a positive sign!</p>
