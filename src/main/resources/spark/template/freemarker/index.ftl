@@ -31,11 +31,11 @@
                 <div class="col-md-6">
                     <h3>Villiers Park:</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a></li>
                         <li><a href="/posts/blog1-23-11-2015/">Introduction</a></li>
                     </ul>
             </div>
           </div>
         </div>
+        <marquee behavior="scroll" direction="left">&#169; Johanna Watkins 2015 </marquee>
     </body>
 </html>
