@@ -40,7 +40,7 @@
                     <p> Being a Software Engineer is simple: it’s all about problem solving and being lazy. 
  In Software Engineering, one of the key... <a href="http://johannawatkins.codeguild.co/posts/blog2-24-11-2015/">(see more)</a></p>
                     
-                    <p>Arrival at Villiers Park - 23/11/2015</u><br/>
+                    <p><u>Arrival at Villiers Park - 23/11/2015</u><br/>
                     <p>Villiers Park is a place that is highly talked about at my school; it’s all the Head of Sixth Form goes on about. Year 13 students come... <a href="http://johannawatkins.codeguild.co/posts/blog1-23-11-2015/"> (see more)</a></p>
            <br/>
            <br/>
