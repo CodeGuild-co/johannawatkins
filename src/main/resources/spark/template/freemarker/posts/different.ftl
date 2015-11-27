@@ -23,13 +23,16 @@
 </div>
 <div class="container">
 <div class="row">
-<img src="http://media.tumblr.com/c89bb90680fdc87ecd132937bf01b0e9/tumblr_inline_n78cu4p15H1s1jww5.gif" height=300px align=right>
+
 <h2>My Blog Is Different</h2>
 <br/>
 <p> Why is my blog so different to everyone else's?</p>
 <ol>
 <li> Look at tab of this page - I have an image beside the tab name.</li>
-<li>I have
+<li>I have a navigation bar to take you between the different pages.</li>
+<li>Next to 'Home' at the top, no-one else has a 'Search Me' option with links to their socail media.</li>
+<li> I have a GIF on my index page.</li>
+<li> Look at the bottom of the web page - I have a copyright scrolling banner
 <br/>
 <br/>
 </div>
