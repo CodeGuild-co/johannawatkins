@@ -19,7 +19,7 @@
         	<li><a href="posts/recent/">BLOG POSTS</a></li>&nbsp;&nbsp;|
         	
         	<li><a href="posts/different/">MY BLOG IS DIFFERENT</a></li>&nbsp;&nbsp;|
-          	<li><a href="contact.html">CONTACT</a></li>
+          	<li><a href="posts/contact/>CONTACT</a></li>
     </ul>
     
    
