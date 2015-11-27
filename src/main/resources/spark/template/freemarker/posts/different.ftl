@@ -32,7 +32,9 @@
 <li>I have a navigation bar to take you between the different pages.</li>
 <li>Next to 'Home' at the top, no-one else has a 'Search Me' option with links to their socail media.</li>
 <li> I have a GIF on my index page.</li>
-<li> Look at the bottom of the web page - I have a copyright scrolling banner
+<li> Look at the bottom of the web page - I have a copyright scrolling banner!</li>
+<li> If you view one of my blog posts, I have a back button to take you to the previous screen.</li>
+</ol>
 <br/>
 <br/>
 </div>
