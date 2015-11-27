@@ -19,7 +19,7 @@
         	<li><a href="http://johannawatkins.codeguild.co/posts/recent/">BLOG POSTS</a></li>&nbsp;&nbsp;|
         	
         	<li><a href="http://johannawatkins.codeguild.co/posts/different/">MY BLOG IS DIFFERENT</a></li>&nbsp;&nbsp;|
-          	<li style=background-color:#FFFFFF><a href="http://johannawatkins.codeguild.co/posts/contact.html">CONTACT</a></li>
+          	<li style=background-color:#FFFFFF><a href="http://johannawatkins.codeguild.co/posts/contact/">CONTACT</a></li>
     </ul>
      </div>
   </div>
