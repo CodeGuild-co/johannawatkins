@@ -31,7 +31,7 @@
 
         <div class="container">
             <div class="row">
-                <img src="http://media.tumblr.com/c89bb90680fdc87ecd132937bf01b0e9/tumblr_inline_n78cu4p15H1s1jww5.gif" height=300px align=right>
+                
                     <h2>About</h2>
                     
                     <center>
