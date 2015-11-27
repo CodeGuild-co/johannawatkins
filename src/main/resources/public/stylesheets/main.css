@@ -10,7 +10,7 @@
   .jumbotron p {
     color: #9B9399;
     max-width: 75%;
-    margin: 1em auto 2em; }
+    margin: 1em auto 2em; font-family: "Courier New", Courier, monospace; }
   .navbar + .jumbotron {
     margin-top: -20px; }
   .jumbotron .lang-logo {
@@ -28,9 +28,9 @@
       display: inline-block;
     }
     
-      p { font-size: 20px; }
+      p { font-size: 20px; font-family: "Courier New", Courier, monospace; }
       
-      body {
+      body { font-family: "Courier New", Courier, monospace;
         padding-bottom: 20px;
       }
     
